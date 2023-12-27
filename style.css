@@ -1,0 +1,32 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  html{
+    background-color: lightblue;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+main{
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 40em;
+    height: 48em;
+    padding-top: 1.5em;
+}
+
+  #image{
+    border-radius: 50px;
+  }
